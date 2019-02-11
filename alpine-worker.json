@@ -1,0 +1,5 @@
+{
+  "name": "alpine-worker",
+  "pipeline_def": "https://raw.githubusercontent.com/JasonMorgan/alpine-worker/master/ci/pipeline.yml",
+  "vars_file": []
+}

@@ -1,5 +1,5 @@
 {
   "name": "planespotter-app-server",
   "pipeline_def": "https://raw.githubusercontent.com/JasonMorgan/planespotter-app-server/master/ci/pipeline.yml",
-  "vars_file": ""
+  "vars_file": []
 }

@@ -1,6 +1,6 @@
 {
   "name": "vault-image",
   "pipeline_def": "https://raw.githubusercontent.com/JasonMorgan/vault-image/master/ci/pipeline.yml",
-  "vars_file": ""
+  "vars_file": []
 }
 
