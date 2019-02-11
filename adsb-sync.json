@@ -1,0 +1,5 @@
+{
+  "name": "adsb-sync",
+  "pipeline_def": "https://raw.githubusercontent.com/JasonMorgan/adsb-sync/master/ci/pipeline.yml",
+  "vars_file": ""
+}

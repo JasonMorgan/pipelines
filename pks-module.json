@@ -1,0 +1,5 @@
+{
+  "name": "pks-module",
+  "pipeline_def": "https://raw.githubusercontent.com/JasonMorgan/pks-module/master/ci/pipeline.yml",
+  "vars_file": ""
+}
