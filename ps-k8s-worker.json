@@ -1,5 +1,5 @@
 {
   "name": "pks-k8s-worker",
-  "pipeline_def": "https://raw.githubusercontent.com/JasonMorgan/pks-k8s-worker/master/ci/pipeline.yml",
+  "pipeline_def": "https://raw.githubusercontent.com/JasonMorgan/ps-k8s-worker/master/ci/pipeline.yml",
   "vars_file": []
 }

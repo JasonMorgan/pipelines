@@ -1,5 +1,5 @@
 {
-  "name": "planespotter-frontend.json",
-  "pipeline_def": "https://raw.githubusercontent.com/JasonMorgan/planespotter-frontend.json/master/ci/pipeline.yml",
+  "name": "planespotter-frontend",
+  "pipeline_def": "https://raw.githubusercontent.com/JasonMorgan/planespotter-frontend/master/ci/pipeline.yml",
   "vars_file": []
 }
